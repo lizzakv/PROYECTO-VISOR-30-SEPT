@@ -1,5 +1,3 @@
-<h1> HONDURAS, CORAZON DE AMERICA</h1>
-
 <!DOCTYPE html>
 <html>
 <section class="webdesigntuts-workshop">
